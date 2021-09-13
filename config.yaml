@@ -1,6 +1,6 @@
 baseURL: https://xeniahuber.netlify.app/
 languageCode: en-us
-title: Xenia the great
+title: Xenia Katharina Huber
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -15,7 +15,7 @@ params:
   contact:
     address:
       - city: London
-        country: Country
+        country: United Kingdom
         street: 88A York Street (W1H1QT)
         title: Address
     buttonClear: Clear
@@ -82,20 +82,20 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: Life imitates art
+        title: About me
         url: blogs/aliquam
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+        subtitle: Previous Data Analytics
+        title: Data Work
         url: blogs/tempus
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: 1-to-1 mentoring
+        title: Women for Women
         url: blogs/magna
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: Member of Alumni Committe
+        title: ISC Alumni
         url: blogs/ipsum
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
