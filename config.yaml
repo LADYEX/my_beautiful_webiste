@@ -8,9 +8,8 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Xenia
+      LEARN ABOUT MY LIFE & ASK ME A QUESTION.
+    title: HI STRANGER, WELCOME TO MY WORLD
   blog: {}
   contact:
     address:
@@ -25,7 +24,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (0041) 799610660
+      - phone: +41 79 961 06 60
         title: Phone
   custom_css: []
   custom_js: []
@@ -56,7 +55,7 @@ params:
         url: https://www.github.com/LADYEX
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com/XeniaHuber
+        url: https://www.linkedin.com/in/xenia-huber-598072111/?originalSubdomain=ch
   image: ''
   name: Xenia Huber
   navigation:
@@ -76,8 +75,8 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    #subtitle: By HTML5 Up
+    title: Home
   tiles:
     enable: yes
     showcase:
