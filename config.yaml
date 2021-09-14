@@ -67,11 +67,11 @@ params:
       #  url: '#'
     links:
       - name: Home
-        url
+        url:
       - name: My Story
         url: blogs/my_story
-      - name: My previous Work
-        url: blogs/
+    #  - name: My previous Work
+    #    url: blogs/
       - name: Women for Women
         url: blogs/women_for_women
       - name: ISC Alumni 
@@ -92,16 +92,16 @@ params:
         subtitle: Everything you need to know about me
         title: My Story
         url: blogs/my_story
-      - image: pic02.jpg
+      - image: mongolia.PNG
         subtitle: Data Analytics & Visualization
         title: Previous Work
         url: blogs/tempus
       - image: pic03.jpg
-        subtitle: Sign up for your personal1-to-1 mentoring
-        title: Women for Women
+        subtitle: Head of Community
+        title: Women for Women (1-on-1 mentoring)
         url: blogs/women_for_women
       - image: pic04.jpg
-        subtitle: Member of Alumni Committe
+        subtitle: Member of the Alumni Committe
         title: ISC Alumni
         url: blogs/isc_alumni
       #- image: pic05.jpg

@@ -5,32 +5,35 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: "Women for Women"
 draft: false 
-image: pic10.jpg
+image: w4w.jpg
 keywords: ""
 slug: women_for_women
-title: TEST
+title: The network for young women with big dreams.
+subtitle: Be part of a 1-to-1 mentoring and an incredibly strong female community
+#why is subtitle not showing?
+#why is picture not showing?
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## Our Story
 
-## R Markdown
+Women for Women is a network connecting and supporting (future) female leaders. We are driven by the belief that women grow by empowering each other.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+We are driven by the belief that women grow by empowering each other. We support women, who do not have a network yet with planning their long-term goals, achieving their ambitions, finding great opportunities and being ready when they arise.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+For female students, Women for Women is the female mentorship network that is the organisation for creating successful long-term relationships to achieve the mentee's long-term goals because we care about persolanized matching and fostering a great community.
 
-```{r cars}
-summary(cars)
-```
+## My Role
 
-## Including Plots
+I am Head of Community, responsible to connect the mentees and mentors with each other, building long-term and sustainable connections.
 
-You can also embed plots, for example:
+LinkedIN: https://www.linkedin.com/company/women-for-women-inc/
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+Website/Sign up today: https://www.womenforwomen.ch/the-initiative
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+#button1: HOW TO ADD BUTTTON
+
+
+#HOW to change icons to W4W not Xenia????
+
+
