@@ -9,7 +9,7 @@ params:
     buttonText: Get Started
     subtitle: |-
       LEARN ABOUT MY LIFE & ASK ME A QUESTION.
-    title: HI STRANGER, WELCOME TO MY WORLD
+    title: HELLO STRANGER, WELCOME TO MY WORLD
   blog: {}
   contact:
     address:
@@ -34,7 +34,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Xenia
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -81,29 +81,29 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Life imitates art
-        title: About me
-        url: blogs/aliquam
+        subtitle: Everything you need to know about me
+        title: My Story
+        url: blogs/mystory
       - image: pic02.jpg
-        subtitle: Previous Data Analytics
-        title: Data Work
+        subtitle: Data Analytics & Visualization
+        title: Previous Work
         url: blogs/tempus
       - image: pic03.jpg
-        subtitle: 1-to-1 mentoring
+        subtitle: Sign up for your personal1-to-1 mentoring
         title: Women for Women
-        url: blogs/magna
+        url: blogs/women_for_women
       - image: pic04.jpg
         subtitle: Member of Alumni Committe
         title: ISC Alumni
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        url: blogs/isc_alumni
+      #- image: pic05.jpg
+      #  subtitle: Ipsum Dolor Sit Amet
+       # title: Consequat
+      #  url: blogs/ipsum
+      #- image: pic06.jpg
+       # subtitle: Feugiat Amet Tempus
+        #title: Etiam
+        #url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
