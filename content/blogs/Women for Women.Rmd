@@ -11,6 +11,7 @@ title: The network for young women with big dreams.
 subtitle: Be part of a 1-to-1 mentoring and an incredibly strong female community
 
 ---
+
 <style>
 .parallax { 
     /* The image used */
@@ -35,7 +36,9 @@ subtitle: Be part of a 1-to-1 mentoring and an incredibly strong female communit
 }
 </style>
 
-
+<!-- Container element -->
+<div class="parallax">
+    <a href="https://github.com/holtzy/R-Markdown-Parallax"> <img class="myimg" src="https://github.com/holtzy/R-Markdown-Parallax/raw/master/Rlogo.png"> </a>
 </div>
 
 
@@ -49,6 +52,19 @@ Women for Women is a female network connecting and supporting (future) female le
 ***
 
 I am Head of Community, responsible for our community. Our goal is to nurture our growing community by building long-term and sustainable connections among mentees and mentors through workshops, speeches, casual get-togethers and other events. 
+
+# Use buttons or tabs for sub-chapters {.tabset .tabset-fade .tabset-pills}
+***
+Save space in your document using buttons or tabs for sub chapters. Add this code at the end of your title:
+
+## First
+A first section
+
+## Second
+content of sub-chapter #2
+
+## Third
+content of sub-chapter #3
 
 .btn {
     border-width: 0 0px 0px 0px;
