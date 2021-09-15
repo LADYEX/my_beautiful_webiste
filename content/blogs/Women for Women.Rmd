@@ -1,7 +1,22 @@
+---
+categories:
+- ""
+- ""
+date: "2017-10-31T21:28:43-05:00"
+description: "Women for Women"
+draft: false 
+image: w4w.jpg
+keywords: ""
+slug: women_for_women
+title: The network for young women with big dreams.
+subtitle: Be part of a 1-to-1 mentoring and an incredibly strong female community
+#why is subtitle not showing?
+#why is picture not showing?
+---
 <style>
 .parallax { 
     /* The image used */
-    background-image: w4w.jpg;
+    background-image: url("https://static.wixstatic.com/media/ba488d_c909402af8014185ad84a52727926e33~mv2.png/v1/fill/w_152,h_68,al_c,q_85,usm_0.66_1.00_0.01/w4w.webp");
 
     /* Set a specific height */
     height: 400px; 
@@ -26,22 +41,6 @@
 <div class="parallax">
     <a href="https://github.com/holtzy/R-Markdown-Parallax"> <img class="myimg" src="https://github.com/holtzy/R-Markdown-Parallax/raw/master/Rlogo.png"> </a>
 </div>
----
-categories:
-- ""
-- ""
-date: "2017-10-31T21:28:43-05:00"
-description: "Women for Women"
-draft: false 
-image: w4w.jpg
-keywords: ""
-slug: women_for_women
-title: The network for young women with big dreams.
-subtitle: Be part of a 1-to-1 mentoring and an incredibly strong female community
-#why is subtitle not showing?
-#why is picture not showing?
----
-
 
 
 ## Our Story
