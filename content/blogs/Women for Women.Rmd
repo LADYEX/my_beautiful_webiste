@@ -44,17 +44,17 @@ subtitle: Be part of a 1-to-1 mentoring and an incredibly strong female communit
 
 ## Our Story
 ***
-
+\begin{flushright}
 Women for Women is a female network connecting and supporting (future) female leaders. We are driven by the belief that women grow by empowering each other. We offer women a network that supports them planning their long-term goals, achieving their ambitions, finding great opportunities and backs them when they arise.
-
+\end{flushright}
 
 ## My Role
 ***
 
 I am Head of Community, responsible for our community. Our goal is to nurture our growing community by building long-term and sustainable connections among mentees and mentors through workshops, speeches, casual get-togethers and other events. 
 
-{.tabset}
-{.button}
+
+{.tabset .tabset-fade .tabset-pills}
 .btn {
     border-width: 0 0px 0px 0px;
     font-weight: normal;
@@ -76,9 +76,6 @@ Website/Sign up today: https://www.womenforwomen.ch/the-initiative
 <i class="fab fa-linkedin-in"></i>
 
 
-#button1: HOW TO ADD BUTTTON
 
-
-#HOW to change icons to W4W not Xenia????
 
 
