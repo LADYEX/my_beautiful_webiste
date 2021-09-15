@@ -5,11 +5,12 @@ theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
-  banner:
+  banner: 
     buttonText: Get Started
     subtitle: |-
-      LEARN ABOUT MY LIFE & ASK ME A QUESTION.
+      LEARN ABOUT MY LIFE & GET IN TOUCH
     title: HELLO STRANGER, WELCOME TO MY WORLD
+    image: 'banner.jpg'
   blog: {}
   contact:
     address:
@@ -56,7 +57,7 @@ params:
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com/in/xenia-huber-598072111/?originalSubdomain=ch
-  image: ''
+  image: 'mongolia.jpg'
   name: Xenia Huber
   navigation:
   #  button1:
@@ -70,6 +71,8 @@ params:
         url:
       - name: My Story
         url: blogs/my_story
+      - name: CV
+        url: blogs/Xenia Huber_CV.pdf
     #  - name: My previous Work
     #    url: blogs/
       - name: Women for Women
@@ -88,26 +91,26 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: mongolia.jpg
         subtitle: Everything you need to know about me
         title: My Story
         url: blogs/my_story
-      - image: mongolia.PNG
+      - image: headshot.jpg
+        subtitle: Learn about my Professional Experience
+        title: CV
+        url: blogs/Xenia Huber_CV.pdf
+      - image: mongolia.jpg
         subtitle: Data Analytics & Visualization
         title: Previous Work
         url: blogs/tempus
-      - image: pic03.jpg
+      - image: w4w.jpg
         subtitle: Head of Community
-        title: Women for Women (1-on-1 mentoring)
+        title: Women for Women (1-on-1 Mentoring)
         url: blogs/women_for_women
-      - image: pic04.jpg
+      - image: w4w.jpg
         subtitle: Member of the Alumni Committe
         title: ISC Alumni
         url: blogs/isc_alumni
-      #- image: pic05.jpg
-      #  subtitle: Ipsum Dolor Sit Amet
-       # title: Consequat
-      #  url: blogs/ipsum
       #- image: pic06.jpg
        # subtitle: Feugiat Amet Tempus
         #title: Etiam

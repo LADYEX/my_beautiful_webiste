@@ -30,6 +30,11 @@ LinkedIN: https://www.linkedin.com/company/women-for-women-inc/
 
 Website/Sign up today: https://www.womenforwomen.ch/the-initiative
 
+<i class="fab fa-youtube"></i> Hans Rosling, ["200 Countries, 200 Years, 4 Minutes"](https://www.youtube.com/watch?v=jbkSRLYSojo){target=_blank}
+<i class="fab fa-youtube"></i>
+
+<i class="fab fa-linkedin-in"></i>
+
 
 #button1: HOW TO ADD BUTTTON
 
