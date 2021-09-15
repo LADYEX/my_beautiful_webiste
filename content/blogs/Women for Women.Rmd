@@ -37,9 +37,7 @@ subtitle: Be part of a 1-to-1 mentoring and an incredibly strong female communit
 }
 </style>
 
-<!-- Container element -->
-<div class="parallax">
-    <a href="https://github.com/holtzy/R-Markdown-Parallax"> <img class="myimg" src="https://github.com/holtzy/R-Markdown-Parallax/raw/master/Rlogo.png"> </a>
+
 </div>
 
 
