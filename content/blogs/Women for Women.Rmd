@@ -1,18 +1,29 @@
----
-categories:
-- ""
-- ""
-date: "2017-10-31T21:28:43-05:00"
-description: "Women for Women"
-draft: false 
-image: w4w.jpg
-keywords: ""
-slug: women_for_women
-title: The network for young women with big dreams.
-subtitle: Be part of a 1-to-1 mentoring and an incredibly strong female community
+#---
+#categories:
+#- ""
+#- ""
+#date: "2017-10-31T21:28:43-05:00"
+#description: "Women for Women"
+#draft: false 
+#image: w4w.jpg
+#keywords: ""
+#slug: women_for_women
+#title: The network for young women with big dreams.
+#subtitle: Be part of a 1-to-1 mentoring and an incredibly strong female community
 #why is subtitle not showing?
 #why is picture not showing?
+#---
 ---
+title: "<center><div class='mytitle'>R Markdown output with parallax</div></center>"
+author: "<center><div class='mysubtitle'>See the code on [github](https://github.com/holtzy/R-Markdown-Parallax). This tip is part of my [Pimp my RMD](https://holtzy.github.io/Pimp-my-rmd/) project.</div></center>"
+output:
+  html_document:
+      css: style.css
+      toc: FALSE
+      includes: 
+        before_body: header.html
+---
+
 <style>
 .parallax { 
     /* The image used */
