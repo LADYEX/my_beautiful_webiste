@@ -53,19 +53,8 @@ Women for Women is a female network connecting and supporting (future) female le
 
 I am Head of Community, responsible for our community. Our goal is to nurture our growing community by building long-term and sustainable connections among mentees and mentors through workshops, speeches, casual get-togethers and other events. 
 
-# Use buttons or tabs for sub-chapters {.tabset .tabset-fade .tabset-pills}
-***
-Save space in your document using buttons or tabs for sub chapters. Add this code at the end of your title:
-
-## First
-A first section
-
-## Second
-content of sub-chapter #2
-
-## Third
-content of sub-chapter #3
-
+{.tabset}
+{.button}
 .btn {
     border-width: 0 0px 0px 0px;
     font-weight: normal;
