@@ -5,7 +5,7 @@ theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
-  banner: 
+  banner:
     buttonText: Get Started
     subtitle: |-
       LEARN ABOUT MY LIFE & GET IN TOUCH
