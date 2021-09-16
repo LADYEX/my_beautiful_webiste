@@ -3,10 +3,12 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:09-05:00"
-description: Lorem Etiam Nullam
+description: As a Swiss the mountains are an important factor in my life. Whether it is for hiking, skiing, snowboarding or just enjoying the fresh air.
 draft: false
-image: pic09.jpg
+image: dollake.jpg
 keywords: ""
-slug: magna
-title: Magna
+slug: mountains
+title: Mountains
 ---
+
+As a Swiss the mountains are an important factor in my life. Whether it is for hiking, skiing, snowboarding or just enjoing the fresh air.

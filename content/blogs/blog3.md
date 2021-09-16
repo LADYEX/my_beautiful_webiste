@@ -3,13 +3,10 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:13-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+description: Taking photographs of trees from all perspectives is a hobby of mine. If you are interested in my Tree Series, visit my Instagram.
 draft: false
-image: pic08.jpg
+image: portugal.jpg
 keywords: ""
-slug: tempus
-title: Tempus
+slug: tree
+title: The Tree Series
 ---
