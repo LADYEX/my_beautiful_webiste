@@ -62,9 +62,18 @@ I am Head of Community, responsible for nurturing our growing community by build
 - Access to women from all over Europe with diverse backgrounds, roles and interests
 - Through our mentoring program you will be able to form meaningful, long-lasting relationships with other women
 
-![](C:/Users/xenia/OneDrive/Desktop/my_beautiful_webiste/static/img/blogs/w4w2.jpg)
+![caption](C:/Users/xenia/OneDrive/Desktop/my_beautiful_webiste/static/img/blogs/w4w2.jpg)
 
 <i class="fab fa-linkedin"></i>
+
+```{r}
+tags$div(class = "submit",
+         tags$a(href = "www.google.com", 
+                "Learn More", 
+                target="_blank")
+)
+```
+
 
 LinkedIN: https://www.linkedin.com/company/women-for-women-inc/
 
