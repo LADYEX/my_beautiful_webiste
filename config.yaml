@@ -92,7 +92,7 @@ params:
     enable: yes
     showcase:
       - image: mongolia.jpg
-        subtitle: Everything you need to know about me
+        subtitle: My Life in a Nutshell
         title: My Story
         url: blogs/my_story
       - image: headshot.jpg

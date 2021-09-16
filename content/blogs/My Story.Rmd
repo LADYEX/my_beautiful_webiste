@@ -11,7 +11,7 @@ draft: false
 image: pic08.jpg
 keywords: ""
 slug: my_story
-title: My Life in a Nutshell
+title: A Few Impressions of the Life of a Swiss
 ---
 
 ```{r setup, include=FALSE}
@@ -36,7 +36,6 @@ ggplot( mtcars, aes(x=mpg)) + geom_histogram(fill="skyblue", alpha=0.5) + theme_
 </div>
 </div>
 
-# Swiss
 
 Born and raised in Zurich, Switzerland, I comply with the stereotype of loving cheese, skiing, the mountains and generally the outdoors. See a few impressions of my life below
 
