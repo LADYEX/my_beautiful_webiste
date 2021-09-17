@@ -76,9 +76,9 @@ params:
     #  - name: My previous Work
     #    url: blogs/
       - name: Women for Women
-        url: blogs/women_for_womentest
+        url: blogs/women_for_women
       - name: ISC Alumni 
-        url: isc_alumni
+        url: blogs/isc_alumni
     #  - name: Blogs
      #   url: blogs
       #- name: Generic Blog
@@ -106,11 +106,11 @@ params:
       - image: w4wlogo.jpg
         subtitle: Head of Community
         title: Women for Women (1-on-1 Mentoring)
-        url: women for women/women for women
+        url: blogs/women for women
       - image: alumnilogo.jpg
         subtitle: Member of the Alumni Committe
         title: ISC Alumni
-        url: iscalumni/isc_alumni
+        url: blogs/isc_alumni
       - image: unisg.jpg
         subtitle: Mind the gap! A multi case study analysis
         title: Bachelor's Thesis
