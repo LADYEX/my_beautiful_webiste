@@ -16,6 +16,8 @@ title: ISC Alumni
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+![Our next Event](C:/Users/xenia/OneDrive/Desktop/my_beautiful_webiste/static/img/blogs/alumnilogo.jpg)
+
 ## About ISC Alumni
 
 As the alumni organization of the International Students' Committee (ISC), we provide a platform to promote bonding and sharing of experiences among ISC alumni, to foster connections among the different generations of ISC, and to advance the ISC. We organise speaker series, workshops, casual get-togethers and much more.
