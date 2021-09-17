@@ -70,15 +70,15 @@ I am Head of Community, responsible for nurturing our growing community by build
 
 <i class="fab fa-linkedin"></i>
 
-```{r}
-shiny::fluidRow(
-  shinydashboard::box(title = "Intro Page", "Some description...", 
-      shiny::actionButton(inputId='ab1', label="Learn More", 
-                          icon = icon("th"), 
-                          onclick ="window.open('http://google.com', '_blank')")
-  )
-)
-```
+<!-- ```{r} -->
+<!-- shiny::fluidRow( -->
+<!--   shinydashboard::box(title = "Intro Page", "Some description...",  -->
+<!--       shiny::actionButton(inputId='ab1', label="Learn More",  -->
+<!--                           icon = icon("th"),  -->
+<!--                           onclick ="window.open('http://google.com', '_blank')") -->
+<!--   ) -->
+<!-- ) -->
+<!-- ``` -->
 
 
 LinkedIN: https://www.linkedin.com/company/women-for-women-inc/
