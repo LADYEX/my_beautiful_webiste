@@ -91,10 +91,10 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: mongolia.jpg
-        subtitle: My Life in a Nutshell
-        title: Xenia Katharina Huber
-        url: blogs/my_story
+      #- image: mongolia.jpg
+       # subtitle: My Life in a Nutshell
+      #  title: Xenia Katharina Huber
+       # url: blogs/my_story
       - image: headshot.jpg
         subtitle: Learn about my Professional Experience
         title: CV
@@ -102,15 +102,15 @@ params:
       - image: mongolia.jpg
         subtitle: Data Analytics & Visualization
         title: Previous Work
-        url: blogs/tempus
+        url: previous work
       - image: w4wlogo.jpg
         subtitle: Head of Community
         title: Women for Women (1-on-1 Mentoring)
-        url: blogs/women_for_women
+        url: women for women
       - image: alumnilogo.jpg
         subtitle: Member of the Alumni Committe
         title: ISC Alumni
-        url: blogs/isc_alumni
+        url: isc_alumni
       - image: unisg.jpg
         subtitle: Mind the gap! A multi case study analysis
         title: Bachelor's Thesis
