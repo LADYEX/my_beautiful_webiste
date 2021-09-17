@@ -7,7 +7,7 @@ description: "Women for Women"
 draft: false 
 image: w4wlogo.jpg
 keywords: ""
-slug: women_for_women
+#slug: women_for_women
 title: The network for young women with big dreams.
 subtitle: Be part of a 1-to-1 mentoring and an incredibly strong female community
 
