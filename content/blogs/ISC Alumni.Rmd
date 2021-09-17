@@ -9,7 +9,6 @@ image: iscalumni.jpg
 keywords: ""
 slug: isc_alumni
 title: ISC Alumni
-#how to change backgroun color??
 ---
 
 ```{r setup, include=FALSE}
