@@ -36,6 +36,13 @@ I am Head of Community, responsible for nurturing our growing community by build
 ![Our next Event](C:/Users/xenia/OneDrive/Desktop/my_beautiful_webiste/static/img/blogs/w4wevent.jpg)
 
 
+```{r picture, echo=FALSE, out.width="70%"}
+knitr::include_graphics("/img/blogs/w4w2.jpg", error =FALSE)
+```
+
+
+
+
 ![caption](C:/Users/xenia/OneDrive/Desktop/my_beautiful_webiste/static/img/blogs/w4w2.jpg)
 
 
