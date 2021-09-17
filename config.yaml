@@ -110,7 +110,7 @@ params:
       - image: alumnilogo.jpg
         subtitle: Member of the Alumni Committe
         title: ISC Alumni
-        url: isc_alumni
+        url: iscalumni/isc_alumni
       - image: unisg.jpg
         subtitle: Mind the gap! A multi case study analysis
         title: Bachelor's Thesis
