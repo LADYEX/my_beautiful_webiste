@@ -1,16 +1,17 @@
 ---
-title: "The network for young women with big dreams."
+categories:
+- ""
+- ""
 date: '2017-10-31T21:28:43-05:00'
+title: The network for young women with big dreams
 description: Women for Women
-draft: no
+draft: false
 image: w4wlogo.jpg
-keywords: ''
+keywords: ""
 slug: women_for_women
 categories:
-- ''
-- ''
-subtitle: Be part of a 1-to-1 mentoring and an incredibly strong female community
 ---
+
 
 ## Be part of a 1-to-1 mentoring and an incredibly strong female community
 
