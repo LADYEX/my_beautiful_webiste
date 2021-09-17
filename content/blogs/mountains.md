@@ -7,9 +7,6 @@ description: "As a Swiss the mountains are an important factor in my life. Wheth
 draft: false
 image: dollake.jpg
 keywords: ""
-slug: mountains
 title: Mountains
 ---
 
-
-As a Swiss the mountains are an important factor in my life. Whether it is for hiking, skiing, snowboarding or just enjoying the fresh air.

@@ -69,28 +69,24 @@ params:
     links:
       - name: Home
         url:
-      - name: My Story
-        url: blogs/my_story
       - name: CV
         url: blogs/Xenia Huber_CV.pdf
-    #  - name: My previous Work
-    #    url: blogs/
+      - name: Data Analytics & Visualisation
+        url: blogs/analytics_visualisation
       - name: Women for Women
         url: blogs/women_for_women
       - name: ISC Alumni 
         url: blogs/isc_alumni
-    #  - name: Blogs
-     #   url: blogs
-      #- name: Generic Blog
-       # url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: Bachelor's Thesis
+        url: blogs/Thesis.pdf
+      - name: My Life in a Nutshell
+        url: blogs
     menu: Menu
     #subtitle: By HTML5 Up
     title: Home
   two:
-    buttonText: Get Started
-    enable: yes
+    #buttonText: Get Started
+   # enable: yes
    # subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
     #  \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
      # condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
@@ -102,17 +98,13 @@ params:
   tiles:
     enable: yes
     showcase:
-      #- image: mongolia.jpg
-       # subtitle: My Life in a Nutshell
-      #  title: Xenia Katharina Huber
-       # url: blogs/my_story
       - image: headshot.jpg
         subtitle: Learn about my Professional Experience
         title: CV
         url: blogs/Xenia Huber_CV.pdf
       - image: mongolia.jpg
-        subtitle: Data Analytics & Visualization
-        title: Previous Work
+        subtitle: Watch thy neighbor; Regression.
+        title: Data Analytics & Visualization
         url: previous work
       - image: w4wlogo.jpg
         subtitle: Head of Community
@@ -126,9 +118,9 @@ params:
         subtitle: Mind the gap! A multi case study analysis
         title: Bachelor's Thesis
         url: blogs/Thesis.pdf
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
+      - image: dolsonne.jpg
+        subtitle: Impressions of my free time
+        title: My life in a Nutshell
         url: blogs
   # two:
   #   buttonText: Get Started
