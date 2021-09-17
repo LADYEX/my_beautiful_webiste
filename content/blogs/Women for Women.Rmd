@@ -20,7 +20,8 @@ subtitle: Be part of a 1-to-1 mentoring and an incredibly strong female communit
 Women for Women (W4W) is a female network connecting (future) female leaders. We are driven by the belief that women grow by empowering each other. W4W offers women a network that supports them planning their long-term goals, achieving their ambitions, finding great opportunities and backs them when they arise.
 
 
-## My Role***
+## My Role
+***
 
 I am Head of Community, responsible for nurturing our growing community by building long-term and sustainable connections among mentees and mentors through workshops, speeches, casual gatherings and other events.
 
@@ -39,8 +40,6 @@ I am Head of Community, responsible for nurturing our growing community by build
 ```{r picture, echo=FALSE, out.width="70%"}
 knitr::include_graphics("/img/blogs/w4w2.jpg", error =FALSE)
 ```
-
-
 
 
 ![caption](C:/Users/xenia/OneDrive/Desktop/my_beautiful_webiste/static/img/blogs/w4w2.jpg)
