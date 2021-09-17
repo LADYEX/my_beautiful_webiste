@@ -76,9 +76,9 @@ params:
     #  - name: My previous Work
     #    url: blogs/
       - name: Women for Women
-        url: blogs/women_for_women
+        url: women_for_women
       - name: ISC Alumni 
-        url: blogs/isc_alumni
+        url: isc_alumni
     #  - name: Blogs
      #   url: blogs
       #- name: Generic Blog
