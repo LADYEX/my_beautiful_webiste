@@ -78,7 +78,7 @@ params:
       - name: Women for Women
         url: blogs/women_for_womentest
       - name: ISC Alumni 
-        url: isc_alumni
+        url: blogs/isc_alumni
     #  - name: Blogs
      #   url: blogs
       #- name: Generic Blog
