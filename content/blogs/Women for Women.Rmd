@@ -1,46 +1,16 @@
 ---
-categories:
-- ""
-- ""
-date: "2017-10-31T21:28:43-05:00"
-description: "Women for Women"
-draft: false 
+title: "The network for young women with big dreams."
+date: '2017-10-31T21:28:43-05:00'
+description: Women for Women
+draft: no
 image: w4wlogo.jpg
-keywords: ""
+keywords: ''
 slug: women_for_women
-title: The network for young women with big dreams.
+categories:
+- ''
+- ''
 subtitle: Be part of a 1-to-1 mentoring and an incredibly strong female community
-
 ---
-
-<style>
-.parallax { 
-    /* The image used */
-    background-image: url("https://static.wixstatic.com/media/ba488d_c909402af8014185ad84a52727926e33~mv2.png/v1/fill/w_152,h_68,al_c,q_85,usm_0.66_1.00_0.01/w4w.webp");
-
-    /* Set a specific height */
-    height: 400px; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.myimg{
-    width: 10%;
-    color: red;
-    position: absolute;
-    top: 150px;
-    left: 45%;
-}
-</style>
-
-<!-- Container element -->
-<div class="parallax">
-    <a href="https://github.com/holtzy/R-Markdown-Parallax"> <img class="myimg" src="https://github.com/holtzy/R-Markdown-Parallax/raw/master/Rlogo.png"> </a>
-</div>
 
 ## Be part of a 1-to-1 mentoring and an incredibly strong female community
 
@@ -68,17 +38,7 @@ I am Head of Community, responsible for nurturing our growing community by build
 
 ![caption](C:/Users/xenia/OneDrive/Desktop/my_beautiful_webiste/static/img/blogs/w4w2.jpg)
 
-<i class="fab fa-linkedin"></i>
 
-<!-- ```{r} -->
-<!-- shiny::fluidRow( -->
-<!--   shinydashboard::box(title = "Intro Page", "Some description...",  -->
-<!--       shiny::actionButton(inputId='ab1', label="Learn More",  -->
-<!--                           icon = icon("th"),  -->
-<!--                           onclick ="window.open('http://google.com', '_blank')") -->
-<!--   ) -->
-<!-- ) -->
-<!-- ``` -->
 
 
 LinkedIN: https://www.linkedin.com/company/women-for-women-inc/
@@ -86,9 +46,7 @@ LinkedIN: https://www.linkedin.com/company/women-for-women-inc/
 Website/Sign up today: https://www.womenforwomen.ch/the-initiative
 url:https://www.linkedin.com/company/women-for-women-inc/
 
-Button {.tabset .tabset-fade .tabset-pills}
 
-<i class="fab fa-linkedin-in"></i>
 
 
 
