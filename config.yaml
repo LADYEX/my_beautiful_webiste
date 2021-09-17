@@ -103,18 +103,18 @@ params:
         subtitle: Data Analytics & Visualization
         title: Previous Work
         url: blogs/tempus
-      - image: w4w.jpg
+      - image: w4wlogo.jpg
         subtitle: Head of Community
         title: Women for Women (1-on-1 Mentoring)
         url: blogs/women_for_women
-      - image: w4w.jpg
+      - image: alumnilogo.jpg
         subtitle: Member of the Alumni Committe
         title: ISC Alumni
         url: blogs/isc_alumni
       - image: unisg.jpg
         subtitle: Mind the gap! A multi case study analysis
         title: Bachelor's Thesis
-        url: blogs/BA_XH_FINAL.pdf
+        url: blogs/Thesis.pdf
       #- image: pic06.jpg
        # subtitle: Feugiat Amet Tempus
         #title: Etiam

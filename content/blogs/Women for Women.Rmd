@@ -5,7 +5,7 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: "Women for Women"
 draft: false 
-image:
+image: w4wlogo.jpg
 keywords: ""
 slug: women_for_women
 title: The network for young women with big dreams.
@@ -62,6 +62,8 @@ I am Head of Community, responsible for nurturing our growing community by build
 - Access to women from all over Europe with diverse backgrounds, roles and interests
 - Through our mentoring program you will be able to form meaningful, long-lasting relationships with other women
 
+# Our next event:
+![Our next Event](C:/Users/xenia/OneDrive/Desktop/my_beautiful_webiste/static/img/blogs/w4wevent.jpg)
 
 
 ![caption](C:/Users/xenia/OneDrive/Desktop/my_beautiful_webiste/static/img/blogs/w4w2.jpg)
