@@ -8,10 +8,10 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
   sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
   consequat tincidunt. Vivamus et sagittis tempus.
 draft: false
-image: pic08.jpg
+image: pic02.jpg
 keywords: ""
 slug: my_story
-title: A Few Impressions of the Life of a Swiss
+title: A Few Impressions of the Life of a Swiss??
 ---
 
 ```{r setup, include=FALSE}
