@@ -22,7 +22,7 @@ knitr::include_graphics("/img/blogs/iscalumni.jpg",error =FALSE)
 ```
 
 
-
+hello world
 
 ![Our next Event](C:/Users/xenia/OneDrive/Desktop/my_beautiful_webiste/static/img/blogs/alumnilogo.jpg)
 
