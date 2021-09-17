@@ -5,7 +5,7 @@ categories:
 date: "2017-10-31T22:26:09-05:00"
 description: A Second Family
 draft: false
-image: isc alumni/iscalumnii.jpg
+image: iscalumni.jpg
 keywords: ""
 slug: isc_alumni
 title: ISC Alumni
@@ -15,6 +15,15 @@ title: ISC Alumni
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+
+```{r picture, echo=FALSE, out.width="70%"}
+knitr::include_graphics("/img/blogs/iscalumni.jpg",error =FALSE)
+
+```
+
+
+
 
 ![Our next Event](C:/Users/xenia/OneDrive/Desktop/my_beautiful_webiste/static/img/blogs/alumnilogo.jpg)
 
