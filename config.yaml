@@ -12,21 +12,21 @@ params:
     title: HELLO STRANGER, WELCOME TO XENIA'S WORLD
     image: 'banner.jpg'
   blog: {}
-  contact:
-    address:
-      - city: London
-        country: United Kingdom
-        street: 88A York Street (W1H1QT)
-        title: Address
-    buttonClear: Clear
-    buttonSend: Send message
-    email:
-      - email: xenia.huber@icloud.com
-        title: Email
-    enable: yes
-    phone:
-      - phone: +41 79 961 06 60
-        title: Phone
+  # contact:
+  #   address:
+  #     - city: London
+  #       country: United Kingdom
+  #       street: 88A York Street (W1H1QT)
+  #       title: Address
+  #   buttonClear: Clear
+  #   buttonSend: Send message
+  #   email:
+  #     - email: xenia.huber@icloud.com
+  #       title: Email
+  #   enable: yes
+  #   phone:
+  #     - phone: +41 79 961 06 60
+  #       title: Phone
   custom_css: []
   custom_js: []
   description: Your description
@@ -38,34 +38,19 @@ params:
     copyright: Xenia
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net
+      # - alt: HTML5 UP
+      #   text: 'Design: '
+      #   url: https://www.html5up.net
     social:
- #     - icon: fa-twitter
-#        label: Twitter
- #       url: https://www.twitter.com
-  #    - icon: fa-facebook
-   #     label: Facebook
-    #    url: https://www.facebook.com/XeniaHuber
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com/xenia_katharina
-      - icon: fa-github
-        label: GitHub
-        url: https://www.github.com/LADYEX
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com/in/xenia-huber-598072111/?originalSubdomain=ch
   image: 'mongolia.jpg'
   name: Xenia Huber
   navigation:
-  #  button1:
-   #   - name: Get Started
-    #    url: blogs
-    #button2:
-     # - name: Log In
-      #  url: '#'
     links:
       - name: Home
         url:
@@ -103,7 +88,7 @@ params:
         title: CV
         url: blogs/Xenia Huber_CV.pdf
       - image: mongolia.jpg
-        subtitle: Watch thy neighbor; Regression.
+        subtitle: Applied Statistics
         title: Data Analytics & Visualization
         url: projects/analytics_visualisation
       - image: w4wlogo.jpg
@@ -122,14 +107,4 @@ params:
         subtitle: Impressions of my free time
         title: My life in a Nutshell
         url: blogs
-  # two:
-  #   buttonText: Get Started
-  #   enable: yes
-  #  # subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-  #   #  \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-  #    # condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-  #   #  pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-  #    # Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-  #   #  amet pharetra et feugiat tempus."
-  #   title: My Life in a Nutshell
-  #   url: blogs
+ 

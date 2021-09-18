@@ -11,4 +11,4 @@ slug: lifeimitatesart
 title: Life Imitates Art
 ---
 
-Doodeling & painting are a way for me to wind down, detox and think about life.
+Sad Clown, Oil on canvas.

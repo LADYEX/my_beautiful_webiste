@@ -1,0 +1,58 @@
+---
+categories:
+- ""
+- ""
+date: "2017-10-31T21:28:43-05:00"
+description: Women for Women
+draft: false
+image: w4wlogo.jpg
+keywords: ""
+slug: women_for_women
+title: The network for young women with big dreams
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Our Story
+***
+Women for Women (W4W) is a female network connecting (future) female leaders. We are driven by the belief that women grow by empowering each other. W4W offers women a network that supports them planning their long-term goals, achieving their ambitions, finding great opportunities and backs them when they arise.
+
+
+## My Role
+***
+I am Head of Community, responsible for nurturing our growing community by building long-term and sustainable connections among mentees and mentors through workshops, speeches, casual gatherings and other events.
+
+
+## What we offer
+***
+- Resources for industries, jobs, application processes, exchange semesters
+- Access to women from all over Europe with diverse backgrounds, roles and interests
+- Through our mentoring program you will be able to form meaningful, long-lasting relationships with other women
+
+# Our next event:
+***
+```{r picture5, echo=FALSE, out.width="100%"}
+knitr::include_graphics("/img/projects/w4weventp.jpg",error =FALSE)
+```
+
+# Caught your interest? Sign up!
+***
+```{r picture3, echo=FALSE, out.width="50%"}
+knitr::include_graphics("/img/projects/w4w2p.jpg",error =FALSE)
+```
+
+  [Sign up here](https://www.womenforwomen.ch/the-initiative)
+  
+  [LinkedIn](https://www.linkedin.com/company/women-for-women-inc/)
+
+
+
+
+
+
+
+
+
+
+
