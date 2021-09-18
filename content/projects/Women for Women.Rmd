@@ -11,10 +11,11 @@ keywords: ""
 slug: women_for_women
 categories:
 ---
-
-
 ## Be part of a 1-to-1 mentoring and an incredibly strong female community
+```{r picture, echo=FALSE, out.width="30%"}
+knitr::include_graphics("/img/blogs/w4wlogo.jpg",error =FALSE)
 
+```
 ## Our Story
 ***
 
@@ -35,11 +36,8 @@ I am Head of Community, responsible for nurturing our growing community by build
 - Through our mentoring program you will be able to form meaningful, long-lasting relationships with other women
 
 # Our next event:
-![Our next Event](C:/Users/xenia/OneDrive/Desktop/my_beautiful_webiste/static/img/blogs/w4wevent.jpg)
-
-
-```{r picture, echo=FALSE, out.width="70%"}
-knitr::include_graphics("/img/blogs/w4w2.jpg", error =FALSE)
+```{r picture, echo=FALSE, out.width="30%"}
+knitr::include_graphics("/img/blogs/w4wevent.jpg",error =FALSE)
 ```
 
 

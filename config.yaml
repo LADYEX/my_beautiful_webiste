@@ -105,7 +105,7 @@ params:
       - image: mongolia.jpg
         subtitle: Watch thy neighbor; Regression.
         title: Data Analytics & Visualization
-        url: previous work
+        url: projects/analytics_visualisation
       - image: w4wlogo.jpg
         subtitle: Head of Community
         title: Women for Women (1-on-1 Mentoring)

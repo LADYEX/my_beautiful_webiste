@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-```{r picture, echo=FALSE, out.width="30%"}
+```{r picture, echo=FALSE, out.width="50%"}
 knitr::include_graphics("/img/blogs/iscalumni.jpg",error =FALSE)
 
 ```
