@@ -12,35 +12,35 @@ params:
     title: HELLO STRANGER, WELCOME TO XENIA'S WORLD
     image: 'banner.jpg'
   blog: {}
-  # contact:
-  #   address:
-  #     - city: London
-  #       country: United Kingdom
-  #       street: 88A York Street (W1H1QT)
-  #       title: Address
-  #   buttonClear: Clear
-  #   buttonSend: Send message
-  #   email:
-  #     - email: xenia.huber@icloud.com
-  #       title: Email
-  #   enable: yes
-  #   phone:
-  #     - phone: +41 79 961 06 60
-  #       title: Phone
+  contact:
+    address:
+     - city: London
+       country: United Kingdom
+       street: Regent's Park, NW1 4SA
+       title: Address
+    buttonClear: Clear
+    buttonSend: Send message
+    email:
+      - email: 
+        title: Please use contact form
+    enable: yes
+    phone:
+      - phone: 
+        title: Write me a message
   custom_css: []
   custom_js: []
   description: Your description
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
-  favicon: favicon.ico
+#  favicon: favicon.ico
   footer:
     copyright: Xenia
     enable: yes
     quicklinks:
-      # - alt: HTML5 UP
-      #   text: 'Design: '
-      #   url: https://www.html5up.net
+#      - alt: HTML5 UP
+ #       text: 'Design: '
+  #      url: https://www.html5up.net
     social:
       - icon: fa-instagram
         label: Instagram

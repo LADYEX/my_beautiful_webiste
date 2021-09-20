@@ -11,4 +11,4 @@ slug: lifeimitatesart
 title: Life Imitates Art
 ---
 
-Sad Clown, Oil on canvas.
+Sad Clown 2019, Oil on canvas.
