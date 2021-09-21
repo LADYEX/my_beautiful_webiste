@@ -57,11 +57,11 @@ params:
       - name: CV
         url: blogs/Xenia Huber_CV.pdf
       - name: Data Analytics & Visualisation
-        url: blogs/analytics_visualisation
+        url: projects/analytics_visualisation
       - name: Women for Women
-        url: blogs/women_for_women
+        url: projects/women_for_women
       - name: ISC Alumni 
-        url: blogs/isc_alumni
+        url: projects/isc_alumni
       - name: Bachelor's Thesis
         url: blogs/Thesis.pdf
       - name: My Life in a Nutshell
