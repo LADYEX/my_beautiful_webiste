@@ -33,7 +33,7 @@ knitr::include_graphics("/img/projects/iscalumnip.jpg",error =FALSE)
 
 ```
 
-[Apply for the 2022 ISC Team here](https://www.symposium.org/join-isc-team)
+[Apply for the 2022 ISC Team here!](https://www.symposium.org/join-isc-team)
 
 [Website](https://www.isc-alumni.org)
 
