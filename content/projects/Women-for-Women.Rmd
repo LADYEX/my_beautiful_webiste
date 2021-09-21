@@ -5,7 +5,6 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: Women for Women
 draft: false
-image: w4wlogo.jpg
 keywords: ""
 slug: women_for_women
 title: The network for young women with big dreams
@@ -14,6 +13,10 @@ title: The network for young women with big dreams
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r picture1, echo=FALSE, out.width="90%"}
+knitr::include_graphics("/img/projects/w4wlogo.jpg",error =FALSE)
+
+```
 ## Our Story
 ***
 Women for Women (W4W) is a female network connecting (future) female leaders. We are driven by the belief that women grow by empowering each other. W4W offers women a network that supports them planning their long-term goals, achieving their ambitions, finding great opportunities and backs them when they arise.
