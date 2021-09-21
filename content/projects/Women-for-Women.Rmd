@@ -1,13 +1,13 @@
 ---
-categories:
-- ""
-- ""
-date: "2017-10-31T21:28:43-05:00"
+title: "The network for young women with big dreams"
+date: '2017-10-31T21:28:43-05:00'
 description: Women for Women
-draft: false
-keywords: ""
+draft: no
+keywords: ''
 slug: women_for_women
-title: The network for young women with big dreams
+categories:
+- ''
+- ''
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
